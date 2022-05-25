@@ -1,0 +1,269 @@
+*{
+  font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.bannerMV{
+  background-image: url("/Assets/hero_landing_us_alt\ \(1\).jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.banner{
+  background-image: url("/Assets/hero_landing_us_alt\ \(1\).jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  background-size: 100%;
+}
+
+.btnText{
+  color: rgb(73, 73, 73);
+}
+
+.bannerLink{
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.bannerLogo{
+  height: 32px;
+
+}
+
+
+
+.bannerText{
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.04ch;
+  text-transform: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+}
+
+h1{
+  font-size: 4.2em
+}
+
+.footerStyle{
+  text-decoration: none;
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: white; 
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.bannerTextMV{
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.04ch;
+  text-transform: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+}
+
+.svgSize{
+  height: 124px;
+  width: 124px;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.04ch;
+  text-transform: none;
+  color: rgb(25, 25, 25);
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+h3{
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0ch;
+  text-transform: none;
+  color: rgb(25, 25, 25);
+  text-align: left;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.spanLink{
+  font-size: 14px;
+font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+font-weight: 700;
+line-height: 20px;
+letter-spacing: -0.04ch;
+text-transform: none;
+color: rgb(235, 23, 0);
+margin: 0px;
+padding: 0px;
+display: block;
+}
+
+li{
+  text-decoration: none;
+  text-transform: none;
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+.Section2Heading{
+  font-size: 180%;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: -0.04ch;
+text-transform: none;
+color: rgb(25, 25, 25);
+margin: 0px;
+padding: 0px;
+display: block;
+}
+
+.Section2Text{
+font-size: 110%;
+font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0ch;
+text-transform: none;
+color: rgb(25, 25, 25);
+margin: 0px;
+padding: 0px;
+display: block;
+}
+
+.Section2Pics{
+  width: 100%;
+}
+
+.forthSectionColour{
+  background-color:  rgb(255, 240, 237);
+}
+
+.buttonRed{
+  background-color: rgb(235, 23, 0);
+}
+
+.buttonRedMobile{
+  background-color: rgb(235, 23, 0);
+  font-size: 80%;
+}
+
+  .Section2HeadingMobile{
+    font-size: 140%;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: -0.04ch;
+  text-transform: none;
+  color: rgb(25, 25, 25);
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  }
+  
+  .Section2TextMobile{
+  font-size: 80%;
+  font-family: DD-TTNorms, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0ch;
+  text-transform: none;
+  color: rgb(25, 25, 25);
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  }
+  
+  .footerTextColour{
+    color:  rgb(196, 196, 196);
+  }
+
+  .button1{
+    background-color: white;
+    border-radius: 50rem;
+  }
+  
+  .button1{
+    background-color: white;
+    border-radius: 50rem;
+  }
+
+  .formHeight{
+  line-height: 2.2;
+}
+
+.footerColour{
+  background-color: rgb(25, 25, 25);;
+}
+
+.footerH2{
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+}
+
+#footerText a{
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0ch;
+  text-transform: none;
+  color: rgb(196, 196, 196);
+  margin-top: 10px;
+  padding: 0px;
+  display: block;
+}
+
+#footerText h2 a{
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+  color:  white;
+}
+
+#finah a{
+  font-size: 12px;
+  text-transform: none;
+  color: rgb(196, 196, 196);
+}
+#finah span{
+  font-size: 12px;
+  text-transform: none;
+  color: rgb(196, 196, 196);
+}
